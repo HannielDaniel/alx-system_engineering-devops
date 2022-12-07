@@ -1,0 +1,2 @@
+#!/bin/bash
+paste - - Z | cut -f1
